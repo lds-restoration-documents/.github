@@ -4,9 +4,15 @@ Latter-day Saint Restoration Documents is an effort to use AI tools, and tools b
 
 ![Image Showing a page from the 1830 edition of The Book of Mormon, with Markdown and Plain Text transcriptions](https://github.com/lds-restoration-documents/.github/blob/main/profile/1830-Book-of-Mormon-page-transcription.png)
 
-[Currently available texts](#currently-available-texts) include early editions of _The Book of Mormon_, _The Book of Commandments_, and the _Phinney Cooperstown Bible_. Additional texts will be added over time. 
+[Markdown](#what-is-markdown) files can be easily converted into other formats like HTML, PDF, Word, EPUB, Images or JSON. 
 
-For AI, so far we used _Claude Code_ by Anthropic, using the _Sonnet 5.5_ Model, configured with _Medium_ effort.
+AI is also especially good at reading and analyzing [Markdown](#what-is-markdown) files. So transcribing these documents into [Markdown](#what-is-markdown) makes them readily available for use by AI. 
+
+The plain text files are readable by any system and are useful for importing into databases or analyzing with other tools that just need the text without any formatting.
+
+[Currently available transcriptions](#currently-available-texts) include early editions of _The Book of Mormon_, the 1833 _Book of Commandments_, and the 1828 _Phinney Cooperstown Bible_. Additional texts will be added over time. 
+
+For AI, the project has used _Claude Code_ by Anthropic, with the _Sonnet 5.5_ Model, configured with _Medium_ effort.
 
 ## AI Transcription
 
@@ -19,10 +25,6 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
 * The whole text in a single plain text file
 * A plain text file containing just the core text, excluding frontmatter &c. (called the "sparse" text) 
 * A [Markdown](#what-is-markdown) file cataloging printer's typos and errors that can be identified by AI
-
-AI is especially good at reading and analyzing [Markdown](#what-is-markdown) files. 
-
-The sparse text files may be useful for importing into databases or analyzing with other tools.
 
 ## Currently Available Texts
 
