@@ -20,7 +20,9 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
 * A plain text file containing just the core text, excluding frontmatter &c. (called the "sparse" text) 
 * A [Markdown](#what-is-markdown) file cataloging printer's typos and errors that can be identified by AI
 
-The sparse text file may be useful for importing into databases or analyzing with other tools.
+AI is especially good at reading and analyzing [Markdown](#what-is-markdown) files. 
+
+The sparse text files may be useful for importing into databases or analyzing with other tools.
 
 ## Currently Available Texts
 
@@ -69,6 +71,7 @@ The sparse text file may be useful for importing into databases or analyzing wit
 ## What is Markdown?
 
 Markdown is a simple way of writing formatted text using plain characters, such as `#` for headings and `*asterisks*` for *italics*. A Markdown file is still readable as ordinary text, and can also be displayed with formatting. 
+
 * Learn more at [markdown.org](https://markdown.org/).
 * Tools for displaying, editing, or converting Markdown files: [https://markdown.org/tools/](https://markdown.org/tools/)
 
