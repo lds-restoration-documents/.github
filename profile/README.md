@@ -2,7 +2,7 @@
 
 Latter-day Saint Restoration Documents is an effort to us AI tools, and tools built by AI, to transcribe the content of digital photographs of original texts from the history of The Church of Jesus Christ of Latter-day Saints into [Markdown](#what-is-markdown) and Plain Text files. 
 
-![Image Showing a page from the 1830 edition of The Book of Mormon, with Markdown and Plain Text transcriptions](./1830-Book-of-Mormon-page-transcription.png)
+![Image Showing a page from the 1830 edition of The Book of Mormon, with Markdown and Plain Text transcriptions](https://github.com/lds-restoration-documents/.github/blob/main/profile/1830-Book-of-Mormon-page-transcription.png)
 
 [Currently available texts](#currently-available-texts) include early editions of _The Book of Mormon_, _The Book of Commandments_, and the _Phinney Cooperstown Bible_. Additional texts will be added over time. 
 
