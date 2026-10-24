@@ -58,9 +58,6 @@ The sparse text file may be useful for importing into databases or analyzing wit
   * [printer-typos.md](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/printer-typos.md)
 
 * [1828 Phinney Cooperstown Bible](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible)
-  
-  * This is the edition of the King James Bible used by Joseph Smith when creating his Inspired Version of the Bible
-  
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible/blob/main/phinney-bible-pages)
   * [phinney-bible.md](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible/blob/main/phinney-bible.md)
   * [phinney-bible.txt](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible/blob/main/phinney-bible.txt)
