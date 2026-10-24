@@ -14,7 +14,7 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
 * The whole text in a single [Markdown](#what-is-markdown) file
 * The whole text in a single plain text file
 * A plain text file containing just the core text, excluding frontmatter &c. (called the "sparse" text) 
-* A [Markdown](#what-is-markdown) file cataloguing printer's typos and errors that can be identified by AI
+* A [Markdown](#what-is-markdown) file cataloging printer's typos and errors that can be identified by AI
 
 The sparse text file may be useful for importing into databases or analyzing with other tools.
 
