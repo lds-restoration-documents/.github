@@ -2,7 +2,9 @@
 
 Latter-day Saint Restoration Documents is an effort to us AI tools, and tools built by AI, to transcribe the content of digital photographs of original texts from the history of The Church of Jesus Christ of Latter-day Saints. 
 
-Current texts include early editions of _The Book of Mormon_, _The Book of Commandments_, and the _Phinney Cooperstown Bible_. Additional texts will be added over time. 
+![Image Showing a page from the 1830 edition of The Book of Mormon, with Markdown and Plain Text transcriptions](./1830-Book-of-Mormon-page-transcription.png)
+
+[Currently available texts](#currently-available-texts) include early editions of _The Book of Mormon_, _The Book of Commandments_, and the _Phinney Cooperstown Bible_. Additional texts will be added over time. 
 
 For AI, so far we used _Claude Code_ by Anthropic, using the _Sonnet 5.5_ Model, configured with _Medium_ effort.
 
