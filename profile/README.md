@@ -9,9 +9,11 @@ Latter-day Saint Restoration Documents is an effort to use AI tools, and tools b
 For AI, so far we used _Claude Code_ by Anthropic, using the _Sonnet 5.5_ Model, configured with _Medium_ effort.
 
 ## AI Transcription
+
 Each page of the original text is transcribed using Artificial Intelligence by analyzing the images of each page, and using programming languages and image manipulation tools to zoom in and out to examine words, letters, and punctuation. The AI generates a separate [Markdown](#what-is-markdown) file for each page, with comments identifying features of the page, as well as uncertain words or punctuation. The AI compares its results to OCR extractions of the same text. The AI then runs an agent to blindly proofread each markdown file and compare it to the original image, identifying discrepancies and ambiguities. All of the generated Python tools are included in each text's git repository, as well as all of the AI documentation.
 
-# Files
+## Files
+
 Once the [Markdown](#what-is-markdown) files for each page have been created, the AI uses code to generate the following output:
 * The whole text in a single [Markdown](#what-is-markdown) file
 * The whole text in a single plain text file
@@ -65,6 +67,7 @@ The sparse text file may be useful for importing into databases or analyzing wit
   * [printer-typos.md](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible/blob/main/printer-typos.md)
 
 ## What is Markdown?
+
 Markdown is a simple way of writing formatted text using plain characters, such as `#` for headings and `*asterisks*` for *italics*. A Markdown file is still readable as ordinary text, and can also be displayed with formatting. 
 * Learn more at [markdown.org](https://markdown.org/).
 * Tools for displaying, editing, or converting Markdown files: [https://markdown.org/tools/](https://markdown.org/tools/)
