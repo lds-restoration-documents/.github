@@ -1,4 +1,5 @@
 # Latter-day Saint Restoration Documents
+<meta name="google-site-verification" content="i9Qfdzc4GKedNLRd88tmTbnheu-a5aUl-hm9FBZiXzU" />
 
 Latter-day Saint Restoration Documents is an effort to us AI tools, and tools built by AI, to transcribe the content of digital photographs of original texts from the history of The Church of Jesus Christ of Latter-day Saints into [Markdown](#what-is-markdown) and Plain Text files. 
 
