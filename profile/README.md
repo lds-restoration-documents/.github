@@ -54,7 +54,14 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
   * [book-of-mormon-1841.md](https://github.com/lds-restoration-documents/1841-young-kimball-pratt-liverpool-book-of-mormon/blob/main/book-of-mormon-1841.md)
   * [book-of-mormon-1841.txt](https://github.com/lds-restoration-documents/1841-young-kimball-pratt-liverpool-book-of-mormon/blob/main/book-of-mormon-1841.txt)
   * [book-of-mormon-1841-sparse.txt](https://github.com/lds-restoration-documents/1841-young-kimball-pratt-liverpool-book-of-mormon/blob/main/book-of-mormon-1841-sparse.txt)
-  * [printers-typos.md](https://github.com/lds-restoration-documents/1841-young-kimball-pratt-liverpool-book-of-mormon/blob/main/printer-typos.md)
+  * [printer-typos.md](https://github.com/lds-restoration-documents/1841-young-kimball-pratt-liverpool-book-of-mormon/blob/main/printer-typos.md)
+
+* [1852 Edition of The Book of Mormon](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron)
+  * [Transcribed Pages](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/tree/main/book-of-mormon-1852-pages)
+  * [book-of-mormon-1852.md](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852.md)
+  * [book-of-mormon-1852.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852.txt)
+  * [book-of-mormon-1852-sparse.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852-sparse.txt)
+  * [printer-typos.md](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/printer-typos.md)
 
 * [1833 Book of Commandments](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments)
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/book-of-commandments-1833-pages)
