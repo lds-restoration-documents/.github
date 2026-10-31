@@ -62,6 +62,7 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/tree/main/book-of-mormon-1852-pages)
   * [book-of-mormon-1852.md](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852.md)
   * [book-of-mormon-1852.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852.txt)
+  * [book-of-mormon-1852-sparse-verses.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852-sparse-verses.txt)
   * [book-of-mormon-1852-sparse.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852-sparse.txt)
   * [printer-typos.md](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/printer-typos.md)
 
