@@ -28,6 +28,8 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
 
 ## Currently Available Texts
 
+### Book of Mormon Editions
+
 * [1830 Edition of The Book of Mormon](https://github.com/lds-restoration-documents/1830-grandin-palmyra-book-of-mormon)
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1830-grandin-palmyra-book-of-mormon/blob/main/book-of-mormon-1830-pages)
   * [book-of-mormon-1830.md](https://github.com/lds-restoration-documents/1830-grandin-palmyra-book-of-mormon/blob/main/book-of-mormon-1830.md)
@@ -63,12 +65,16 @@ Once the [Markdown](#what-is-markdown) files for each page have been created, th
   * [book-of-mormon-1852-sparse.txt](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/book-of-mormon-1852-sparse.txt)
   * [printer-typos.md](https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-momron/blob/main/printer-typos.md)
 
+### Book of Commandments
+
 * [1833 Book of Commandments](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments)
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/book-of-commandments-1833-pages)
   * [book-of-commandments-1833.md](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/book-of-commandments-1833.md)
   * [book-of-commandments-1833.txt](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/book-of-commandments-1833.txt)
   * [book-of-commandments-1833-sparse.txt](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/book-of-commandments-1833-sparse.txt)
   * [printer-typos.md](https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments/blob/main/printer-typos.md)
+
+### Bible
 
 * [1828 Phinney Cooperstown Bible](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible)
   * [Transcribed Pages](https://github.com/lds-restoration-documents/1828-phinney-cooperstown-bible/blob/main/phinney-bible-pages)
